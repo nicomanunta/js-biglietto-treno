@@ -12,3 +12,14 @@ BONUS
 2 - Stilizzare con i css la pagina
 
 
+Problema: calcolo del prezzo del biglietto del treno
+
+1- prompt per richiedere numero di km da percorrere
+2- prompt per richiedere l'età del passeggero
+3- calcolare il prezzo del viaggio moltiplicando il numero dei km per il prezzo al km 0.21 € 
+3.a.1- if minorenni sconto del 20%
+3.b.1- else prezzo intero
+3.a.2- if over 65 sconto del 40%
+3.b.2-else prezzo intero
+4- calcolare prezzo finale facendo una sottrazione tra prezzo intero e sconto se necessario
+5- limitare le cifre decimali fino a centesimi
